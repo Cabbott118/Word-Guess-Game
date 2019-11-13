@@ -1,7 +1,7 @@
 body {
     background: url("../images/whosThatPokemon.png");
     background-repeat: no-repeat;
-    background-size: 100%;
+	background-size: cover;
     font-family: 'Alfa Slab One', cursive;
 }
 
